@@ -6,3 +6,5 @@ anthropic
 langchain-core
 langchain-community
 python-dotenv
+sentence-transformers
+langchain-huggingface
